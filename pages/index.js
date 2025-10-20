@@ -36,7 +36,7 @@ export default function Home() {
           <li className="tracking-[-.01em]">
             Save and see your changes instantly.
           </li>
-          <li className="mt-2 tracking-[-.01em]">
+          <li className="mt-2 tracking-[-.01em] font-bold">
             by Chalisa Ponsean
           </li>
         </ol>
